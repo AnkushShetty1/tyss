@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2019-04-03T12:54:14Z" finished-at="2019-04-03T12:54:14Z">
+    <groups>
+    </groups>
+    <test name="Optional Test one" duration-ms="51" started-at="2019-04-03T12:54:14Z" finished-at="2019-04-03T12:54:14Z">
+      <class name="testng.Parameter2">
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:testng.Parameter2@d8355a8]" name="test" duration-ms="17" started-at="2019-04-03T12:54:14Z" finished-at="2019-04-03T12:54:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ankush]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testng.Parameter2 -->
+    </test> <!-- Optional Test one -->
+    <test name="Optional Test two" duration-ms="6" started-at="2019-04-03T12:54:14Z" finished-at="2019-04-03T12:54:14Z">
+      <class name="testng.Parameter2">
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:testng.Parameter2@5442a311]" name="test" duration-ms="2" started-at="2019-04-03T12:54:14Z" finished-at="2019-04-03T12:54:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testng.Parameter2 -->
+    </test> <!-- Optional Test two -->
+  </suite> <!-- Suite -->
+</testng-results>
